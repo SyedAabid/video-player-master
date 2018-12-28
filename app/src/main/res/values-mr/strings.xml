@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">सेटिंग्ज</string>
+    <string name="action_previous">मागील</string>
+    <string name="action_next">पुढील</string>
+    <string name="action_finish">समाप्त</string>
+    <string name="navigation_drawer_open">नेव्हिगेशन ड्रॉवर उघडा</string>
+    <string name="navigation_drawer_close">नेव्हिगेशन ड्रॉवर बंद करा</string>
+    <string name="desc_nav_item_icon">नेव्हिगेशन ड्रॉवर आयटम चिन्ह</string>
+    <string name="desc_video_item_icon">व्हिडिओ लघुप्रतिमा</string>
+    <string name="no_videos_found">कोणतेही व्हिडिओ आढळले नाहीत</string>
+    <string name="progress_dialog_title">लोड करीत आहे</string>
+    <string name="progress_dialog_message">कृपया प्रतीक्षा करा &#8230;</string>
+    <string name="nw_alert_title">ओपन नेटवर्क स्ट्रीम</string>
+    <string name="nw_alert_message">नेटवर्क लिंक प्रविष्ट करा, उदाहरणार्थ:\nhttp://www.example.com/video.mp4</string>
+    <string name="nw_alert_ok">ओके</string>
+    <string name="nw_alert_cancel">रद्द करा</string>
+    <string name="share_chooser">सामायिक करा मार्गे</string>
+    <string name="share_title">व्हिडिओ प्लेयर - आता डाऊनलोड करा!</string>
+
+    <string name="nav_local_videos">व्हिडिओ</string>
+    <string name="nav_network_stream">नेटवर्क स्ट्रीम</string>
+    <string name="nav_zbigz">झीबिगझी स्ट्रीम</string>
+    <string name="nav_live_tv">लाइव्ह टीव्ही</string>
+    <string name="nav_contact">संपर्क साधा</string>
+    <string name="nav_share">सामायिक करा</string>
+    <string name="nav_visit_website">वेबसाइट पहा</string>
+
+</resources>

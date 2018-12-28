@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="action_settings">Nastavení</string>
+	<string name="action_previous">Předchodzí</string>
+	<string name="action_next">Další</string>
+	<string name="action_finish">Konec</string>
+	<string name="navigation_drawer_open">Otevřít navigační šuflík</string>
+	<string name="navigation_drawer_close">Zavřít navigační zásuvku</string>
+	<string name="desc_nav_item_icon">Ikona navigační zásuvky</string>
+	<string name="desc_video_item_icon">Náhled Videa</string>
+	<string name="no_videos_found">Nenalezena žádná videa</string>
+	<string name="progress_dialog_title">Načítání</string>
+	<string name="progress_dialog_message">Prosím čekejte ...</string>
+	<string name="nw_alert_title">Otevřít internetové streamování</string>
+	<string name="nw_alert_message">Prosím vložte sem URL videa, příklad: http://www.example.com/video.mp4</string>
+	<string name="nw_alert_ok">OK</string>
+	<string name="nw_alert_cancel">Zrušit</string>
+	<string name="share_chooser">Zdílet přes</string>
+	<string name="share_title">Video přehrávač - Stáhněte nyní!</string>
+
+	<string name="nav_local_videos">Videa</string>
+	<string name="nav_network_stream">Internetový stream</string>
+	<string name="nav_zbigz">Streamování Zbigz</string>
+	<string name="nav_live_tv">Živě TV</string>
+	<string name="nav_contact">Kontakt</string>
+	<string name="nav_share">Sdílet</string>
+	<string name="nav_visit_website">Navštivte webové stránky</string>
+
+</resources>
